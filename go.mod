@@ -1,4 +1,4 @@
-module scp03
+module github.com/skythen/scp03
 
 go 1.16
 
